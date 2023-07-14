@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381280771031",
+    "project_id": "onechat-64631",
+    "storage_bucket": "onechat-64631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381280771031:android:301212b9194f875c25c992",
+        "android_client_info": {
+          "package_name": "com.nativeworks.onechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381280771031-3atgvujai5ntk7u2uhnbs6f533e404rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3PX-0phi0QktzlkuaHkSzQXiuJ-5qzCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381280771031-3atgvujai5ntk7u2uhnbs6f533e404rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
